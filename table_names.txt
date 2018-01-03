@@ -1,0 +1,3 @@
+information_schema	SCHEMATA	1
+information_schema	TABLES	3
+information_schema	COLUMNS	7
